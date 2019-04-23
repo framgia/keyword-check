@@ -5,6 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
+* hashcode 01D94RT1X1BM1QQ5FWT8E8BD2D
 * Ruby version
 
 * System dependencies
